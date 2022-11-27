@@ -1,6 +1,6 @@
 from turtle import*
 bgcolor('green')
-speed(5)
+speed(3)
 def Draw():
 
     up()
