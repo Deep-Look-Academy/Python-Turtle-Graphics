@@ -3,7 +3,7 @@ pensize(2)
 hideturtle()
 speed('fastest')
 bgcolor('black')
-colors = colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow'] 
+colors =  ['red', 'purple', 'blue', 'green', 'orange', 'yellow'] 
 
 
 for l in range(250):
