@@ -1,6 +1,7 @@
 from turtle import*
-backward(100)
 pensize(2)
+backward(100)
+
 for i in range(2):
     forward(200)
     left(90)
